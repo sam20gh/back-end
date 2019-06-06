@@ -1,0 +1,2 @@
+class MyFlightsController < ApplicationController
+end
